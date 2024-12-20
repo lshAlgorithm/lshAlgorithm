@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning UCB CS61c, MIT 6.824, CUDA toolkits, AI accelerator
 - 📫 How to reach me: lishuhuaiofficial@gamil.com
 - 😄 Hobby: Tennis, Badminton, Marathon, Volunteer
-- ✍ Other interets: Social science, Agricultural study and Dostoyevsk!
+- Other interets: Social science, Agricultural study and Dostoyevsky!
 
 <!---
 lshAlgorithm/lshAlgorithm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
