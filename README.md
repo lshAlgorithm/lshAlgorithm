@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shuhuai Li
 - 👀 I’m interested in HW/SW co-design in AI
 - 🌱 I’m currently learning UCB CS61c, MIT 6.824, CUDA toolkits, AI accelerator
-- 📫 How to reach me: lishuhuaiofficial@gamil.com
+- 📫 How to reach me: lishuhuaiofficial@gmail.com
 - 😄 Hobby: Tennis, Badminton, Marathon, Volunteer
 - Other interets: Social science, Agricultural study and Dostoyevsky!
 
